@@ -40,8 +40,7 @@ The primary objective is to build an effective fraud detection model capable of 
 Transactional-Fraud-Analysis/
 │
 ├── Transactional Fraud Data Analysis.ipynb
-├── README.md
-└── dataset/
+└── README.md
 ```
 
 ---
