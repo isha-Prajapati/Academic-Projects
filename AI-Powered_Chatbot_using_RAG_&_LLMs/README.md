@@ -30,13 +30,16 @@ streamlit run chatbot_qna_distilbert_model.py
 streamlit run chatbot_ollama_model.py
 Project Structure
 
+```text
 HR_Chatbot/
-│
+││
 ├── create_memory_for_llm.py          # Document processing & vector store
 ├── chatbot_qna_distilbert_model.py            # Q&A model (DistilBERT)
 ├── chatbot_ollama_model.py        # LLM model (Ollama)
 ├── hr_data/                 # HR documents directory
 └── vectorstore/             # FAISS database
+```
+
 Model Comparison Aspect Q&A Model Ollama LLM Accuracy 100% factual May hallucinate Speed Fast Slow Setup Simple Requires Ollama Best For Policy quotes Explanations
 
 Requirements
