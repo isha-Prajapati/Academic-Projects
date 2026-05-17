@@ -35,8 +35,7 @@ HR_Chatbot/
 ├── chatbot_qna_distilbert_model.py            # Q&A model (DistilBERT)
 ├── chatbot_ollama_model.py        # LLM model (Ollama)
 ├── hr_data/                 # HR documents directory
-├── vectorstore/             # FAISS database
-└── requirements.txt         # Dependencies
+└── vectorstore/             # FAISS database
 Model Comparison Aspect Q&A Model Ollama LLM Accuracy 100% factual May hallucinate Speed Fast Slow Setup Simple Requires Ollama Best For Policy quotes Explanations
 
 Requirements
