@@ -32,7 +32,7 @@ Project Structure
 
 ```text
 HR_Chatbot/
-││
+│
 ├── create_memory_for_llm.py          # Document processing & vector store
 ├── chatbot_qna_distilbert_model.py            # Q&A model (DistilBERT)
 ├── chatbot_ollama_model.py        # LLM model (Ollama)
