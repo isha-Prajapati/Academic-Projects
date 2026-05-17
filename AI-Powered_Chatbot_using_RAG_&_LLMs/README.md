@@ -60,10 +60,16 @@ Usage Examples
 # Technical Details
 
 Embeddings: Sentence Transformers (all-MiniLM-L6-v2)
-Vector Store: FAISS
-Q&A Model: distilbert-base-cased-distilled-squad
-LLM: llama2 via Ollama
-Chunk Size: 500 characters with 50 overlap
-License Educational/Organizational Use Privacy Considerations PII masking during ingestion and logging Audit logs of queries for compliance GDPR-aligned data retention and deletion options
 
-Note: For production HR systems, the Q&A model is recommended for its factual accuracy.
+Vector Store: FAISS
+
+Q&A Model: distilbert-base-cased-distilled-squad
+
+LLM: llama2 via Ollama
+
+Chunk Size: 500 characters with 50 overlap
+
+
+## License Educational/Organizational Use Privacy Considerations PII masking during ingestion and logging Audit logs of queries for compliance GDPR-aligned data retention and deletion options
+
+## Note: For production HR systems, the Q&A model is recommended for its factual accuracy.
