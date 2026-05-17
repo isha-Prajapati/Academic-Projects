@@ -69,7 +69,7 @@ LLM: llama2 via Ollama
 
 Chunk Size: 500 characters with 50 overlap
 
+License Educational/Organizational Use Privacy Considerations PII masking during ingestion and logging Audit logs of queries for compliance GDPR-aligned data retention and deletion options
 
-## License Educational/Organizational Use Privacy Considerations PII masking during ingestion and logging Audit logs of queries for compliance GDPR-aligned data retention and deletion options
 
-## Note: For production HR systems, the Q&A model is recommended for its factual accuracy.
+Note: For production HR systems, the Q&A model is recommended for its factual accuracy.
